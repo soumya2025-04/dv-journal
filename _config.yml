@@ -1,3 +1,4 @@
 title: DV Journal
 description: Notes and tutorials on design verification
 theme: jekyll-theme-minimal
+baseurl: "/dv-journal"
