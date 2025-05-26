@@ -2,4 +2,24 @@ title: DV Journal
 description: Notes and tutorials on design verification
 theme: jekyll-theme-minimal
 baseurl: "/dv-journal"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@latest"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Layout defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+      related: false
+
+# Font and style customization
+minimal_mistakes_skin: "air"  # try "air", "dark", "neon" for different looks
