@@ -21,12 +21,14 @@ Opinions on tools, testbench architecture, coverage closure, and more
 
 Tips for early-career DV engineers navigating complex systems
 
-🧩 A little about me
+### 🧩 A little about me
+
 I started my DV journey 5 years ago . My background spans both ASIC- and SoC-level verification, with exposure to performance verification, QoS logic, memory subsystems, and verification IP reuse across tapeouts.
 
 I’ve seen just how different real DV looks compared to what’s taught in a course or online tutorial — and I want to bridge that gap.
 
-🔍 What I’ll write about
+### 🔍 What I’ll write about
+
 Here’s a sample of what you can expect:
 
 SystemVerilog & UVM best practices
@@ -39,7 +41,8 @@ Hardware architecture deep dives
 
 Mistakes I’ve made and what they taught me
 
-🚀 Who is this blog for?
+### 🚀 Who is this blog for?
+
 If you’re a:
 
 New DV engineer trying to get up to speed
