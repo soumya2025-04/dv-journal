@@ -23,3 +23,5 @@ defaults:
 
 # Font and style customization
 minimal_mistakes_skin: "air"  # try "air", "dark", "neon" for different looks
+include:
+  - assets/css/custom.css
