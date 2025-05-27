@@ -2,7 +2,7 @@ title: DV Journal
 description: Notes and tutorials on design verification
 theme: jekyll-theme-minimal
 baseurl: "/dv-journal"
-remote_theme: "mistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@gh-pages"
 
 plugins:
   - jekyll-remote-theme
